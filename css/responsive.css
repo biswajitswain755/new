@@ -1,0 +1,1137 @@
+@media only screen and (max-width: 1200px){
+    .nav-itom{
+        margin-left: 25rem;
+    }
+    .nav{
+        overflow: hidden;
+    }
+    .head-line p{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1.9rem;
+        margin-right: 270px;
+    }
+    #head-botton{
+        overflow: hidden;
+    }
+    .card {
+        width: 30rem;
+        height: 27rem;
+        position: absolute;
+        top: 17rem;
+        border-radius: 21px;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+    }
+    .image img{
+        object-fit: cover;
+        overflow: hidden;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+        height: 490px;
+        margin-bottom: 50px;
+    }
+    .card{
+        width: 30rem;
+        height: 27rem;
+        position: absolute;
+        top: 16rem;
+        border-radius: 21px;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+
+    }
+    .card-pro-img img {
+        position: relative;
+        left: 40px;
+        top: 10px;
+    }
+    .total-video-page {
+        padding-bottom: 70px;
+        overflow: hidden;
+    }
+    
+
+    .anchor .view {
+        position: relative;
+        /* right: 10px; */
+        left: 35rem;
+        padding: 4px 12px;
+        border: 1px solid black;
+        border-radius: 12px;
+    }
+    .anchor {
+        margin-top: 20px;
+        margin-bottom: 30px;
+        margin-left: -28px;
+    }
+    .inspired .icon img {
+        height: 50px;
+        width: 50px;
+        border: 2.5px solid white;
+        border-radius: 50%;
+        position: relative;
+        margin: auto;
+        top: 11rem;
+        left: 17px;
+        background-color: antiquewhite;
+        padding: 5px;
+        overflow: hidden;
+    }
+    .inspired .icon a{
+        font-size: 13px;
+        border: 1px solid aquamarine;
+        border-radius: 31px;
+        background-color: aquamarine;
+    }
+    .inspired .icon h5{
+        color: white;
+        margin-top: 20px;
+    }
+    .inspired .icon span{
+        color: white;
+    }
+    .article h3 {
+        color: darkgray;
+        font-weight: 700;
+        margin-bottom: 40px;
+    }
+    .house img{
+        width: 360px;
+    }
+    .mirror img{
+        width: 175px;
+    }
+    .flower img{
+        width: 175px;
+    }
+    .leaf img{
+        width: 360px;
+    }
+    .lk-msg {
+        display: flex;
+        gap: 65px;
+        margin-top: 7px;
+        height: 18px;
+        overflow: hidden;
+    }
+    .gmail-form .in-put {
+        width: 351px;
+        height: 3rem;
+    }
+    .left-sub-container {
+        padding-top: 60px;
+    }
+    .news-left-text {
+        padding-top: 1rem;
+    }
+    .the-video h2 {
+        font-size: 45px;
+    }
+    .the-video span {
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: 700;
+    }
+    .tp-vdo{
+        margin-top: 60px;
+    }
+    .getting-started h3 {
+        text-align: center;
+        padding-left: 23px;
+        font-size: 23px;
+    }
+    .Explores-1 h3 {
+        text-align: center;
+        padding-right: 49px;
+        font-size: 23px;
+    }
+    .Resources h3 {
+        text-align: center;
+        padding-right: 20px;
+        font-size: 23px;
+    }
+    .Community h3 {
+        text-align: center;
+        padding-right: 12px;
+        font-size: 23px;
+    }
+    .lk-msg {
+        display: block;
+    }
+    .footer-icon-details{
+            margin-left: 80px;
+            margin-top: 31px;
+    }
+    .card .sub-image h5{
+            margin-top: 0px;
+            position: absolute;
+            bottom: 10px;
+            left: 57px;
+        }
+        .card-swip .container h5{
+
+        }
+        .lt-profile h6 {
+            margin-right: 9rem;
+            margin-top: 20px;
+        }
+        .left-details h4 {
+            margin-bottom: 12px;
+            margin-top: 12px;
+            font-size: 18px;
+        }
+        .card-list .author-title h5{
+            text-align: center;
+        }
+        .internal-text h5 {
+            text-align: start;
+            font-size: 17px;
+            padding-left: 5px;
+            padding: 5px 0px 5px 5px;
+            font-family: 'Font Awesome 5 Pro';
+        }
+        .news-text h3 {
+            font-size: 40px;
+            font-weight: 700;
+            font-family: sans-serif;
+            padding-bottom: 25px;
+        }
+        .the-video span {
+            font-size: 18px;
+            font-family: emoji;
+            font-weight: 700;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            line-height: 27px;
+        }
+    }
+@media only screen and (max-width: 1024px){
+    .mini {
+        display: flex;
+        gap: 6px;
+        margin-left: 10px;
+    }
+    .card {
+        margin-top: 38px;
+    }
+    .head-line p{
+        font-size: 24px;
+    }
+    .main-image img {
+        height: 200px;
+    }
+    .sub-image h5{
+        color: black;
+    }
+    .inspired .icon img {
+       left: 0px;
+    }
+    .inspired .icon span{
+        top: 16rem;
+        color: white;
+    }
+    .anchor .view{
+        left: 24rem;
+    }
+    .left-details h4 {
+        margin-bottom: 14px;
+        margin-top: 15px;
+        font-size: 16px;
+        font-family: 'FontAwesome';
+        letter-spacing: 0.2px;
+    }
+    .lt-profile h6 {
+        margin-right: auto;
+        margin-top: 25px;
+        margin-left: 10px;
+    }
+    .lt-profile img {
+        height: 58px;
+        width: 58px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .article h2 {
+        font-weight: 700;
+        font-size: 45px;
+        letter-spacing: .5px;
+        margin-bottom: 10px;
+    }
+    .article h3 {
+        margin-bottom: 40px;
+    }
+    .window img {
+        height: 335px;
+    }
+    .hand .right-main-img{
+        height: 335px;
+    }
+    .home-design img {
+        height: 167.5px;
+        width: 600px;
+        object-fit: cover;
+        overflow: hidden;
+    }
+    .img-about {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 21px;
+    }
+    .house img{
+        height: 162px;
+        width: 290px;
+        overflow: hidden;
+    }
+    .mirror img{
+        height: 162px;
+        width: 153px;
+        overflow: hidden;
+    }
+    .leaf img{
+        height: 162px;
+        width: 290px;
+        overflow: hidden;
+    }
+    .flower img{
+        height: 162px;
+        width: 153px;
+        overflow: hidden;
+    }
+    .right-img-lay {
+        height: 335px;
+        overflow: hidden;
+    }
+    .col-lay {
+        height: 323px;
+        overflow: hidden;
+    }
+    .listen-card-img img {
+        height: 90px;
+        width: 90px;
+    }
+    .listen-card-img ul li {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .listen-card-img :nth-child(2) {
+        font-size: 12px;
+    }
+    .card-pro-img img {
+        left: 22px;
+    }
+    
+    .card-pro-img img {
+        height: 75px;
+        width: 75px;
+        border-radius: 50%;
+    }
+    .pro-number img {
+        height: 15px;
+        width: 23px;
+        margin-left: 15px;
+        overflow: hidden;
+    }
+    .pro-number{
+        left: 10px;
+        overflow: hidden;
+    }
+    .vdo-details .vdo-text {
+        margin-top: 23px;
+    }
+    .explore{
+        overflow: hidden;
+    }
+
+    .left-sub-container {
+        position: relative;
+        padding-top: 0px;
+        padding-bottom: 20px;
+        overflow: hidden;
+        
+    }
+
+    .listen-music{
+        overflow: hidden;
+    }
+    .total-video-page{
+        position: relative;
+        overflow: hidden;
+    }
+    .gmail-form .in-put {
+        width: 285px;
+        height: 3rem;
+    }
+    .main-back-clr{
+        position: relative;
+        overflow: hidden;
+    }
+        .getting-started h3 {
+            padding-left: 0px;
+            font-size: 22px;
+            margin-bottom: 20px;
+            font-family: serif;
+            font-weight: 900;
+        }
+        .Explores-1 h3 {
+            text-align: center;
+            padding-right: 0px;
+            font-size: 22px;
+            font-family: serif;
+            font-weight: 900;
+            margin-bottom: 20px;
+        }
+        .Resources h3{
+                text-align: center;
+                padding-right: 0px;
+                font-size: 22px;
+                font-family: serif;
+                font-weight: 900;
+                margin-bottom: 20px;
+        }
+        .Community h3 {
+            text-align: center;
+            padding-right: 10px;
+            font-size: 22px;
+            font-family: serif;
+            font-weight: 900;
+            overflow: hidden;
+        }
+        .lk-msg {
+            display: block;
+        }
+        .news-text h3 {
+            font-size: 34px;
+            font-weight: 700;
+            font-family: sans-serif;
+            padding-bottom: 10px;
+        }
+        .news-left-text {
+            padding-top: 2rem;
+        }
+        .getting-started ul li {
+            margin-bottom: 5px;
+        }
+        .Explores-1 ul li {
+            margin-bottom: 5px;
+        }
+        .Resources ul li {
+            margin-bottom: 5px;
+        }
+        .Community ul li {
+            margin-bottom: 5px;
+        }
+        .footer-icon-details{
+            margin-top: 9px;
+            margin-left: 83px;
+        }
+        .mini-text h3 {
+            font-family: 'Times New Roman', Times, serif;
+            color: white;
+            letter-spacing: 1px;
+            font-size: 20px;
+            padding-top: 15px;
+        }
+        .sub-lenovo h4{
+            color: white;
+        }
+        .lk-msg {
+            margin-top: 7px;
+            height: 27px;
+        }
+}
+@media only screen and (max-width: 992px){
+    .house img{
+        height: 163px;
+        width: 290px;
+        overflow: hidden;
+    }
+    .mirror img{
+        height: 163px;
+        width: 153px;
+        overflow: hidden;
+    }
+    .leaf img{
+        height: 163px;
+        width: 290px;
+        overflow: hidden;
+    }
+    .flower img{
+        height: 163px;
+        width: 153px;
+        overflow: hidden;
+    }
+    .vdo-details .vdo-text h6 {
+        color: white;
+        margin-top: -16px;
+        padding-left: 12px;
+    }
+    .vdo-text h5 {
+        margin-top: 0px;
+        margin-bottom: 16px;
+    }
+    .container .head-line h2 {
+        font-weight: bolder;
+        font-size: 2rem;
+    }
+    .head-line p {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .card img {
+        width: 5rem;
+        min-width: 80px;
+        box-shadow: 0 0 0 5px #fff;
+        margin-left: 40px;
+    }
+    .card {
+        width: 28rem;
+        height: 24rem;
+        position: absolute;
+        top: 15rem;
+        border-radius: 21px;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+    }
+    .main-image img {
+        height: 157px;
+    }
+    .left-details h4 {
+        margin-bottom: 8px;
+        margin-top: 8px;
+        font-size: 16px;
+        font-family: 'FontAwesome';
+        letter-spacing: 0.2px;
+    }
+    .inspired .icon span {
+        color: white;
+    }
+    
+}
+@media only screen and (max-width: 880px){
+    /* .sub-image h4{
+            margin-top: 0px;
+            position: absolute;
+            /* bottom: 10px; */
+            /* left: 57px;
+        } */
+        .card {
+            width: 28rem;
+            height: 26rem;
+            position: absolute;
+            top: 16rem;
+            border-radius: 21px;
+            box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+        }
+        .inspired .icon img{
+                height: 40px;
+                width: 40px;
+                left: -17px;
+            }
+    .sub-image .img2 {
+        width: 10px;
+        display: inline;
+    }
+    .sub-image span {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        padding: 2px 10px;
+        border: 1px solid white;
+        background-color: white;
+        border-radius: 14px;
+        font-size: 12px;
+    }
+    #card-swip .container h1 {
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 51px;
+    }
+    
+    .inspired .icon img {
+        height: 40px;
+        width: 40px;
+        
+    }
+    .inspired .icon h5 {
+        font-size: 16px;
+        color: white;
+        margin-top: 10px;
+    }
+    .head2 h3 {
+        font-size: 44px;
+    }
+    .head2 h6 {
+        font-size: 18px;
+    }
+    .anchor .view {
+        left: 11rem;
+    }
+    .anchor a{
+        font-size: 18px;
+    }
+    .anchor a{
+        font-size: 18px;
+    }
+    .anchor .all{
+        font-size: 16px;
+    }
+    .anchor .view{
+        font-size: 17px;
+    }
+    .sub-text h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-size: 20px;
+        font-family: emoji;
+    }
+    .lk-msg {
+        display: none;
+    }
+    .lt-profile {
+        display: flex;
+        justify-content: space-between;
+        height: 42px;
+    }
+    .lt-profile img {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .lt-profile h6 {
+        margin-right: auto;
+        margin-top: 15px;
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .left-details h4 {
+        margin-bottom: 9px;
+        margin-top: 14px;
+        font-size: 0.8rem;
+        font-family: 'FontAwesome';
+        letter-spacing: 0.2px;
+    }
+    .article h2{
+        font-size: 40px;
+    }
+    .article h3 {
+        margin-bottom: 40px;
+        font-size: 23px;
+    }
+    .window img{
+        height: 300px;
+    }
+    .hand .right-main-img{
+        height: 300px;
+    }
+    .home-design img{
+        height: 150px;
+    }
+    .house img{
+        height: 145px;
+        width: 493px;
+    }
+    .mirror img{
+        height: 145px;
+        width: 192px;
+    }
+    .leaf img{
+        height: 145px;
+        width: 493px;
+    }
+    .flower img{
+        height: 145px;
+        width: 192px;
+    }
+    .right-img-lay {
+        height: 301px;
+        overflow: hidden;
+    }
+    .head h6{
+        font-size: 20px;
+        font-family: 'Font Awesome 5 Pro';
+    }
+    .card-back{
+        margin-bottom: 20px;
+    }
+    .card-back2{
+        margin-bottom: 20px;
+    }
+    .lk-msg-bk {
+        display: flex;
+        gap: 29rem;
+        padding-top: 1rem;
+        padding-left: 1rem;
+    }
+    .sub-text-bottom a {
+        font-size: 22px;
+        margin-bottom: 0px;
+    }
+    .col-lay {
+        height: 227px;
+        overflow: hidden;
+    }
+    .people img {
+        height: 35px;
+        width: 60px;
+    }
+    .people h6 {
+        font-size: 0.5rem;
+        margin-top: -5px;
+        font-weight: 700;
+    }
+    .Explore h3 {
+        font-size: 19px;
+    }
+    .sub-text-bottom a {
+        font-size: 10px;
+    }
+    .card-back{
+        height: 280px;
+    }
+    .card-back2{
+        height: 280px;
+    }
+    .card-back3{
+        height: 280px;
+    }
+    .listen-card-img img {
+        height: 100px;
+        width: 100px;
+    }
+    .listen-card-img ul li {
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .listen-card-img :nth-child(2) {
+        font-size: 15px;
+    }
+    .listen-card-img :nth-child(1) {
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .listen-card-title{
+        margin-top: 10px;
+    }
+    .card-pro-img img {
+        height: 60px;
+        width: 60px;
+        left: 15px;
+    }
+    .inspired .icon a {
+        left: -13px;
+        top: 17rem;
+        border: 1px solid #9fdbc7;
+        background-color: #9fdbc7;
+        font-size: 10px;
+    }
+    .vdo iframe {
+        width: 100%;
+        height: 220px;
+    }
+    .vdo-details img {
+        height: 39px;
+    }
+    .vdo-details .vdo-text h6 {
+        color: white;
+        margin-top: -14px;
+        font-size: 13px;
+        margin-bottom: 35px;
+    }
+    .vdo-details .vdo-text h5 {
+        font-size: 16px;
+        color: white;
+        margin-top: 0px;
+    }
+    .vdo-details img {
+        height: 47px;
+        width: 50px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-top: 11px;
+    }
+    .vdo-details .vdo-text {
+        margin-top: 16px;
+    }
+    .card .sub-img h5{
+            font-size: 16px;
+            color: #131212;
+            margin-top: 20px;
+            margin-bottom: 5px;
+            bottom: 12px;
+            left: 59px !important ;
+    }
+    .card-pro-name h6:nth-child(1) {
+        font-size: 15px;
+        margin-top: 10px;
+        font-weight: 700;
+    }
+    .card-pro-name h6:nth-child(2) {
+        font-size: 12px;
+    }
+    .pro-number img {
+        height: 13px;
+        width: 14px;
+        left: 21px;
+        margin-top: 1px;
+    }
+    .pro-number {
+        left: -6px;
+        overflow: hidden;
+    }
+    .left-sub-container p {
+        color: rgba(51, 51, 51, 0.356);
+        font-weight: 600;
+        font-size: 15px;
+        text-align: start;
+        padding-bottom: 24px;
+    }
+    .sub-text-bottom a {
+        font-size: 18px;
+    }
+    .left-sub-container h3 {
+        font-size: 1.5rem;
+        line-height: 1.5rem;
+        font-weight: 700;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .left-sub-container a {
+        text-decoration: none;
+        color: #FFF;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 20px;
+        padding: 10px 15px;
+        border: 1px solid blue;
+        background-color: rgba(0, 0, 255, 0.733);
+        border-radius: 30px;
+    }
+    .life-style-text h2{
+        font-size: 35px;
+    }
+    .left-view {
+        gap: 30px;
+    }
+    .lyfe-style-botton {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 50px;
+        padding-bottom: 2rem;
+    }
+    .lenovo-smart{
+        height: 320px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .mini-card {
+        height: 320px;
+    }
+    .mini-card1 {
+        height: 320px;
+    }
+    .sub-lenovo a {
+        font-size: 13px;
+    }
+    .sub-lenovo h4 {
+        color: white;
+        font-size: 20px;
+    }
+    .sub-lenovo span {
+        font-size: 15px;
+        color: white;
+    }
+    .mini-play {
+        height: 25px;
+        width: 25px;
+    }
+    .hrt img {
+        height: 20px;
+        width: 20px;
+        padding-top: 5px;
+    }
+    .hrt {
+        padding: 2px 23px 0px 3px;
+    }
+    .mini-text a{
+        font-size: 13px;
+    }
+    .mini-text h3 {
+        font-size: 17px;
+        padding-top: 15px;
+    }
+    .mini-text span{
+        font-size: 13px;
+    }
+    .container h1 {
+        font-size: 40px;
+    }
+    .more-design h3 {
+        text-align: center;
+        font-size: 25px;
+    }
+    .internal-img a {
+        font-size: 10px;
+    }
+    .internal-icon img {
+        height: 35px;
+        width: 35px;
+    }
+    .internal-icon span {
+        padding-top: 6px;
+        font-size: 15px;
+    }
+    .image img{
+        width: 523px;
+        margin-left: 11rem;
+    }
+    .pro-number span {
+        font-weight: 600;
+        font-size: 15px;
+        position: relative;
+        left: 35px;
+        top: 6px;
+    }
+    .internal-text h5 {
+        text-align: start;
+        font-size: 14px;
+        padding-left: 5px;
+        padding: 5px 0px 5px 5px;
+        font-family: 'Font Awesome 5 Pro';
+    }
+    .mini-msg {
+        display: flex;
+        gap: 2px
+    }
+    .hrt{
+        gap: 0px;
+        padding: 2px 8px 0px 3px;
+    }
+    .mini-msg img {
+        height: 18px;
+        width: 18px;
+        margin-top: 4px;
+    }
+    .mini {
+        display: flex;
+        gap: 0px;
+        margin-left: 0px;
+    }
+    .sub-form{
+        margin-bottom: 13px;
+    }
+    .lft-video{
+    }
+    .lft-vdo {
+        height: 500px;
+        width: 100%;
+    }
+    .rght-vdo {
+        width: 100%;
+        display: flex;
+        margin-top: 20px;
+        overflow: scroll;
+    }
+    .rght-vdo iframe{
+        margin-right: 5px;
+    }
+    .getting-started ul li a {
+        text-decoration: none;
+        color: gray;
+        font-size: 15px;
+        margin-bottom: 0px;
+    }
+    .footer-icon-details {
+        margin-top: 9px;
+        margin-left: 83px;
+        display: flex;
+        gap: 40px;
+    }
+    .all-icon-list {
+        display: flex;
+        gap: 70px;
+        position: absolute;
+        left: 165px;
+    }
+    #footer{
+        position: relative;
+    }
+    .logo-icon img{
+        position: absolute;
+        top: 0px;
+        left: 25rem;
+    }
+    .face-book {
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 15px;
+        margin-top: 0px;
+    }
+    .sub-footer-itom{
+        margin-top: 50px;
+    }
+    .getting-started ul li {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .Explores-1 ul li {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .Resources ul li {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    .Community ul li {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+   
+}
+@media only screen and (max-width: 768px){
+    .cards .sub-image h4 {
+        text-align: center;
+        font-size: 20px;
+        font-family: emoji;
+        position: absolute;
+        bottom: 35px;
+        left: 49px;
+    }
+    .inspired{
+        height: 380px;
+    }
+    .inspired .icon a {
+        font-weight: 700;
+    }
+    .left-details h4 {
+        margin-bottom: 13px;
+        margin-top: 16px;
+        font-size: 2px rem;
+        font-family: 'FontAwesome';
+        letter-spacing: 0.2px;
+        font-size: 1.2rem;
+    }
+    .card-pro-img {
+        width: 28%;
+        margin-bottom: 25px;
+    }
+    .card-pro-img img {
+        height: 65px;
+        width: 65px;
+        left: 37px;
+    }
+    .card-pro-img .pro-number {
+        left: 21px;
+        overflow: hidden;
+        margin-bottom: 10px;
+    }
+    .pro-number .arrow{
+        height: 13px;
+        width: 17px;
+        left: 21px;
+        }
+        .left-sub-container h3 {
+            font-size: 1.2rem;
+        }
+        .all-icon-list {
+            display: flex;
+            gap: 70px;
+            position: absolute;
+            left: 106px;
+        }
+        .logo-icon img {
+            left: 20rem;
+        }
+}
+@media only screen and (max-width: 680px){
+    .container .head-line h2 {
+        font-weight: bolder;
+        font-size: 1.5rem;
+    }
+    .image img {
+        width: 448px;
+        margin-left: 100px;
+        height: 410px;
+        margin-top: 100px;
+    }
+    .cards .sub-image h4 {
+        font-size: 19px;
+        left: 32px;
+    }
+    .sub-image h5, p {
+        text-align: center;
+        margin-top: -3px;
+        padding-bottom: 19px;
+        font-size: 14px;
+    }
+    .head2 h3 {
+        font-size: 41px;
+    }
+    .head2 h6 {
+        font-size: 16px;
+    }
+    .anchor .view {
+        font-size: 11px;
+        left: 0rem;
+    }
+    .anchor .all {
+        font-size: 11px;
+    }
+    .anchor a {
+        font-size: 16px;
+    }
+    .left-details{
+        margin-bottom: 20px;
+    }
+    .article h2 {
+        font-size: 35px;
+    }
+    .article h3 {
+        font-size: 21px;
+    }
+    .img-about img {
+        height: 50px;
+        width: 50px;
+    }
+    .house img {
+        width: 312px;
+    }
+    .leaf img{
+        width: 312px;
+    }
+    .col-lay {
+        height: 161px;
+    }
+    .sub-text-bottom a {
+        font-size: 13px;
+    }
+    .sub-text-icon h3 {
+        font-size: 22px;
+    }
+    .listen-card-img img {
+        height: 80px;
+        width: 81px;
+    }
+    .listen-card-img ul {
+        padding-top: 4px;
+    }
+    .card-pro-img img {
+        left: 18px;
+    }
+    .card-pro-img .pro-number {
+        left: 7px;
+    }
+    .life-style-text h2 {
+        font-size: 30px;
+    }
+    .life-style-text span {
+        font-size: 17px;
+    }
+    .mini-card1 {
+        height: 320px;
+        margin-bottom: 20px;
+    }
+    .mini {
+        display: flex;
+        gap: 40px;
+        margin-left: 10px;
+    }
+}
